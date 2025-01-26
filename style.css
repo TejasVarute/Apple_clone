@@ -329,7 +329,7 @@
 
 .slide img {
     width: 99%;
-    height: auto;
+    height: 100%;
     object-fit:fill;
     border-radius: 30px;
 }
@@ -472,7 +472,7 @@
 
     .slide img{
         width: 90%;
-        height: auto;
+        height: 100%;
         border-radius: 20px;
     }
 
